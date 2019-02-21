@@ -1,0 +1,11 @@
+- Compile and Run details:
+	- All files (both data and .py) need to be in the same folder
+	- Run from IPython Notebook file titles DSC478_FINALPROJECT
+	- DSC478_FINALPROJECT will need to be unzipped before it is usable
+- Files
+	- u.data
+	- u.genre
+	- u.item
+	- data_analysis.py
+	- import_preprocess_data.py
+	- recommendation.py
